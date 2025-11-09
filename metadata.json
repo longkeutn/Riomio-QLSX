@@ -1,0 +1,5 @@
+{
+  "name": "Riomio QLSX - Production Management",
+  "description": "An internal web application for a fashion company to digitize and manage the entire production workflow, from sample development to manufacturing and inventory.",
+  "requestFramePermissions": []
+}
